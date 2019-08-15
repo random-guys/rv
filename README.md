@@ -1,7 +1,7 @@
 # rv
 Custom RecyclerView Adapter
 
-![Demo](https://media.giphy.com/media/TIjBTGA3u0k0RIkK4j/giphy.gif)
+![Demo](https://media.giphy.com/media/m9SYyx6t1E2le1DM0e/giphy.gif)
 
 ```
 Copyright (c) 2019 Raymond Tukpe
