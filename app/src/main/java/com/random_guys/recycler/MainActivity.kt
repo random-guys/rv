@@ -32,7 +32,8 @@ class MainActivity : AppCompatActivity(), LoadMoreListener {
         recyclerView.layoutManager = linearLayoutManager
         recyclerView.adapter = namesAdapter
 
-        recyclerScrollMoreListener = RecyclerScrollMoreListener(linearLayoutManager, namesAdapter)
+        recyclerScrollMoreListener =
+            RecyclerScrollMoreListener(linearLayoutManager, namesAdapter, 20)
         recyclerView.addOnScrollListener(recyclerScrollMoreListener)
     }
 
