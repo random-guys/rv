@@ -15,7 +15,7 @@ publish {
     userOrg = 'random-guys'
     groupId = 'com.random-guys'
     artifactId = 'rv'
-    publishVersion = '0.0.1'
+    publishVersion = '0.0.2'
     desc = 'Custom RecyclerView Adapter'
     bintrayUser = BINTRAY_USER
     bintrayKey = BINTRAY_API_KEY
